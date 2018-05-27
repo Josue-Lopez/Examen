@@ -1,0 +1,22 @@
+Pagina de inicio
+http://localhost:3000
+
+Paginas
+
+Agregar productos (POST)
+/AddProducto
+
+Obtener todos los productos (GET)
+/GetProductos
+
+Obtener producto por ID (GET)
+/GetProductoID/:id
+
+Obtener producto por Marca (GET)
+/GetProductoMarca
+
+Obtener productos entre dos fechas (GET)
+/GetProductoFechas
+
+Eliminar productos por ID (DELETE)
+/DeleteProducto/:id
